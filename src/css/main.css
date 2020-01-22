@@ -14,3 +14,12 @@
     font-family: sans-serif;
     text-align: center;
 }
+
+.footer {
+    background-color: cornflowerblue;
+    padding: 70px;
+    font-size: 28px;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+}
